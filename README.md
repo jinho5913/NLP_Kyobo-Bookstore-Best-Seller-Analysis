@@ -9,6 +9,7 @@
 6. 베스트셀러에 담긴 키워드로 시대적 배경 및 사회적 흐름 파악
 
 < 예시 결과 >
+
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/87609200/215253062-23586bc4-bfda-46c5-ae83-70edf012f266.png">
 
 
